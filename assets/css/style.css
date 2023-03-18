@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.section-two{
+    margin-top: 10%;
+    margin-left: 5%;
+}
+ .text h4{
+    margin-bottom: 5%;
+    color: gold;
+}
+.text h2{
+    margin-bottom: 5%;
+}
+.text button{
+    background-color:rgb(0, 0, 138);
+    margin-top:3%;
+}
+.text button:hover{
+    background-color: gold;
+}
